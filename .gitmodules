@@ -1,0 +1,3 @@
+[submodule "tag-api-js"]
+	path = tag-api-js
+	url = git@github.com:ishanlearnsprog/tag-api-js.git
